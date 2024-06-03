@@ -1,4 +1,4 @@
-# Invariant common network and service definitions
+# Common network and service definitions
 
 ## Purpose of this repository
 This repository is made available for user reference. Aerleon users are welcome to import these files for their own use.
